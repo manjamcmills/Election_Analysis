@@ -38,4 +38,4 @@ A Colorado Board of Elections employee has given you the following task to compl
 
 
 ## Election-Audit Summary
-### I feel that the Colorado Election Commission should hire me again for future elections. With more data, I could run more analyses on different demographics like age, race, education, and gender.  I could also aapt this analysis for any county or groupdesired. 
+### I feel that the Colorado Election Commission should hire me again for future elections. With more data, I could run more analyses on different demographics like age, race, education, and gender.  I could also aapt this analysis for any county or group desired. 
